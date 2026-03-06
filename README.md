@@ -25,4 +25,4 @@ To run this project locally, you will need a local server environment like [XAMP
 ### Step 1: Clone the Repository
 Clone this repository to your local server's web directory (e.g., `htdocs` for XAMPP or `www` for Laragon).
 ```bash
-git clone [https://github.com/yourusername/zetech-library-system.git](https://github.com/yourusername/zetech-library-system.git)
+git clone [https://github.com/yourusername/git](https://github.com/yourusername/zetech-library-system.git)
